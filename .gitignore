@@ -1,0 +1,4 @@
+# Project exclude paths
+/customer/target/
+/feign/target/
+/provider/target/
